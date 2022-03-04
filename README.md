@@ -2,6 +2,9 @@
 
 Program design and data manipulation with Python. Overview of data structures, iteration, flow control, program design, and using libraries for data exploration and analysis. 
 
+# Lecture recording link is [here](https://www.youtube.com/watch?v=yBAYduexjuA&list=PLWmXHcz_53Q26aQzhknaT3zwWvl7w8wQE)
+
+
 ## Course Learning Outcomes
 
 <details>
